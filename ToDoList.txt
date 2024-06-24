@@ -1,0 +1,23 @@
+﻿[to do]
+
+
+
+
+
+[done]
+=> About => description
+=> Password input/read/set/change
+=> save settings with serialization
+=> Menu > File > change password (bug)
+=> license
+=> installer => license agreement
+=> better message boxes
+=> convert unix format EOL to windows
+=> option "edit with.." to contex menu
+=> drag and drop support
+=> rename to SkounyCrypt
+=> uninstall => remove keys => .egz, appname, Open with...
+
+
+
+
